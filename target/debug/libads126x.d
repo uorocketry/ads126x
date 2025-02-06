@@ -1,1 +1,0 @@
-/home/ns/Rocketry/ads126x/target/debug/libads126x.rlib: /home/ns/Rocketry/ads126x/src/error.rs /home/ns/Rocketry/ads126x/src/lib.rs /home/ns/Rocketry/ads126x/src/register/enums.rs /home/ns/Rocketry/ads126x/src/register.rs
